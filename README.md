@@ -2,4 +2,6 @@
 
 Bootstrap 5
 
-Design form themesberg.com
+HTML + CSS
+
+Inpiration design www.themesberg.com
